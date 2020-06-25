@@ -20,12 +20,12 @@
     <application
         android:allowBackup="true"
         android:hardwareAccelerated="true"
-        android:icon="@drawable/ic_launcher"
-        android:label="@string/app_name"
+        android:icon="@mipmap/logodmsn"
+        android:label="DMSNCLOTH"
         android:theme="@style/AppTheme2" >
         <activity
             android:name="com.solodroid.ecommerce.ActivitySplash"
-            android:label="@string/app_name"
+            android:label="DMSNCLOTH"
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -35,7 +35,7 @@
         </activity>
         <activity
             android:name="com.solodroid.ecommerce.MainActivity"
-            android:label="@string/app_name"
+            android:label="DMSNCLOTH"
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
