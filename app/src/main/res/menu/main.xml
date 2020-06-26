@@ -11,13 +11,11 @@
             <!-- Rate App -->
             <item
                 android:id="@+id/rate_app"
-                android:showAsAction="ifRoom|withText"
                 android:title="@string/rate"/>
 
             <!-- More App -->
             <item
                 android:id="@+id/more_app"
-                android:showAsAction="ifRoom|withText"
                 android:title="@string/more"/>
         </menu>
     </item>

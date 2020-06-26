@@ -56,6 +56,7 @@ public class MainActivity extends FragmentActivity {
 	static DBHelper dbhelper;
 	AdapterMainMenu mma;
 
+	@SuppressLint("ResourceType")
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -247,7 +248,8 @@ public class MainActivity extends FragmentActivity {
 			}
 			return true;
 		case R.id.more_app:
-			startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(getString(R.string.more_apps))));
+			startActivity(new Intent(Intent.ACTION_VIEW,
+					Uri.parse("http://dmsncloth.project-mif.com")));
 			return true;
 		default:
 			return super.onOptionsItemSelected(item);
