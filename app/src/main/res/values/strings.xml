@@ -100,7 +100,7 @@
     
     <!-- Nav Drawer List Item Icons, keep them in order as the titles are in -->
     <array name="nav_drawer_icons">
-        <item>@drawable/ic_home</item>       
+        <item>@drawable/ic_home</item>
         <item>@drawable/ic_product</item>
         <item>@drawable/ic_cart</item>
         <item>@drawable/ic_checkout</item>
@@ -122,13 +122,20 @@
 	
 	<!-- Write your description about information menu for tab 1, tab 2 and tab 3 -->
 	<string name="information_tab1">
-		Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.
+		Transfer melalui rekening
+Dibandingkan dengan jenis online payment yang lain, transfer via rekening saat ini lebih banyak digunakan. Untuk melakukan payment dengan transfer via rekening, ada beberapa cara yang bisa dilakukan yaitu SMS banking, internet banking, ATM, dan mobile banking.
+
+\n\Payment melalui kartu kredit
+Jenis sistem pembayaran online selanjutnya yaitu via kartu kredit. Untuk melakukan pembayaran dengan kartu kredit, Anda hanya perlu memasukkan nomor dan nilai harga barang atau produk yang dibeli. Setelah itu lengkapi nama, nomor telepon, dan alamat yang sesuai dengan data di kartu kredit.
+
+\n\Cash on delivery
+Untuk jenis sistem payment online COD (Cash On Delivery) sangat cocok digunakan bagi Anda yang tidak mempunyai kartu kredit dan kartu debit. Jenis pembayaran yang satu ini hanya mengharuskan Anda untuk menyerahkan sejumlah uang secara langsung saat barang atau produk yang dibeli datang.
 	</string>	
 	<string name="information_tab2">
-	    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.
+	    Complaint atau yang bisa disebut keluhan, merupakan yang diberikan untuk pelanggan atau konsumen yang biasanya mengeluhkan terkait keresahan yang dialami oleh pelanggan, mulai dari pengiriman yang lama, kondisi barang, respon admin, dan masih banyak lagi. Namun itu merupakan hal yang wajar bahkan perlu untuk bisnis kami, yang mana dari keluhan dan keresahan pelanggan kami bisa memperbaiki dan berkembang lebih bak untuk kedepannya.
 	</string>	
 	<string name="information_tab3">
-	    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.
+	    Cancellation atau bisa disebut pembatalan dalam pembelian, itu bisa dilakukan ketika anda belum sampai pada tahap pembayaran, namun jika anda sudah membayar secara tidak langsung anda sudah memilihi produk dari kami. Namun disini kami memiliki pengecualian jikalau barang yang sudah diterima dalam keadaan yang tidak baik contoh, kainnya sobek dan sablon berantakan, maka pelanggan mendapat penggantian produk baru.
 	</string>
 	
 	<!-- Write your description if order sent successfully -->
